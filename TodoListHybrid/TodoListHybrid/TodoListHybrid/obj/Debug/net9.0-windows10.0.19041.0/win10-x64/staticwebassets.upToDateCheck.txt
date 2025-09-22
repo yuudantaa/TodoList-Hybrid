@@ -1,0 +1,4 @@
+wwwroot\app.css
+wwwroot\index.html
+D:\materi kuliah\MobileMaui\TodoListHybrid\TodoListHybrid\TodoListHybrid\wwwroot\app.css
+D:\materi kuliah\MobileMaui\TodoListHybrid\TodoListHybrid\TodoListHybrid\wwwroot\index.html

@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\materi kuliah\\MobileMaui\\TodoListHybrid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54BF213D-34C3-420E-B481-C7EB07E999F7}|TodoListHybrid\\TodoListHybrid.Shared\\TodoListHybrid.Shared.csproj|d:\\materi kuliah\\mobilemaui\\todolisthybrid\\todolisthybrid\\todolisthybrid.shared\\pages\\todo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54BF213D-34C3-420E-B481-C7EB07E999F7}|TodoListHybrid\\TodoListHybrid.Shared\\TodoListHybrid.Shared.csproj|solutionrelative:todolisthybrid\\todolisthybrid.shared\\pages\\todo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0017B0C-2862-4765-9604-49A521340D9E}|TodoListHybrid\\TodoListHybrid.Web\\TodoListHybrid.Web.csproj|d:\\materi kuliah\\mobilemaui\\todolisthybrid\\todolisthybrid\\todolisthybrid.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0017B0C-2862-4765-9604-49A521340D9E}|TodoListHybrid\\TodoListHybrid.Web\\TodoListHybrid.Web.csproj|solutionrelative:todolisthybrid\\todolisthybrid.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54BF213D-34C3-420E-B481-C7EB07E999F7}|TodoListHybrid\\TodoListHybrid.Shared\\TodoListHybrid.Shared.csproj|d:\\materi kuliah\\mobilemaui\\todolisthybrid\\todolisthybrid\\todolisthybrid.shared\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54BF213D-34C3-420E-B481-C7EB07E999F7}|TodoListHybrid\\TodoListHybrid.Shared\\TodoListHybrid.Shared.csproj|solutionrelative:todolisthybrid\\todolisthybrid.shared\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54BF213D-34C3-420E-B481-C7EB07E999F7}|TodoListHybrid\\TodoListHybrid.Shared\\TodoListHybrid.Shared.csproj|d:\\materi kuliah\\mobilemaui\\todolisthybrid\\todolisthybrid\\todolisthybrid.shared\\todolisthybrid.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{54BF213D-34C3-420E-B481-C7EB07E999F7}|TodoListHybrid\\TodoListHybrid.Shared\\TodoListHybrid.Shared.csproj|solutionrelative:todolisthybrid\\todolisthybrid.shared\\todolisthybrid.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54BF213D-34C3-420E-B481-C7EB07E999F7}|TodoListHybrid\\TodoListHybrid.Shared\\TodoListHybrid.Shared.csproj|d:\\materi kuliah\\mobilemaui\\todolisthybrid\\todolisthybrid\\todolisthybrid.shared\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54BF213D-34C3-420E-B481-C7EB07E999F7}|TodoListHybrid\\TodoListHybrid.Shared\\TodoListHybrid.Shared.csproj|solutionrelative:todolisthybrid\\todolisthybrid.shared\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54BF213D-34C3-420E-B481-C7EB07E999F7}|TodoListHybrid\\TodoListHybrid.Shared\\TodoListHybrid.Shared.csproj|d:\\materi kuliah\\mobilemaui\\todolisthybrid\\todolisthybrid\\todolisthybrid.shared\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54BF213D-34C3-420E-B481-C7EB07E999F7}|TodoListHybrid\\TodoListHybrid.Shared\\TodoListHybrid.Shared.csproj|solutionrelative:todolisthybrid\\todolisthybrid.shared\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\materi kuliah\\MobileMaui\\TodoListHybrid\\TodoListHybrid\\TodoListHybrid.Web\\Program.cs",
+              "RelativeDocumentMoniker": "TodoListHybrid\\TodoListHybrid.Web\\Program.cs",
+              "ToolTip": "D:\\materi kuliah\\MobileMaui\\TodoListHybrid\\TodoListHybrid\\TodoListHybrid.Web\\Program.cs",
+              "RelativeToolTip": "TodoListHybrid\\TodoListHybrid.Web\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAewCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T15:03:20.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Todo.razor",
+              "DocumentMoniker": "D:\\materi kuliah\\MobileMaui\\TodoListHybrid\\TodoListHybrid\\TodoListHybrid.Shared\\Pages\\Todo.razor",
+              "RelativeDocumentMoniker": "TodoListHybrid\\TodoListHybrid.Shared\\Pages\\Todo.razor",
+              "ToolTip": "D:\\materi kuliah\\MobileMaui\\TodoListHybrid\\TodoListHybrid\\TodoListHybrid.Shared\\Pages\\Todo.razor",
+              "RelativeToolTip": "TodoListHybrid\\TodoListHybrid.Shared\\Pages\\Todo.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T14:49:10.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "D:\\materi kuliah\\MobileMaui\\TodoListHybrid\\TodoListHybrid\\TodoListHybrid.Shared\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "TodoListHybrid\\TodoListHybrid.Shared\\Models\\TodoItem.cs",
+              "ToolTip": "D:\\materi kuliah\\MobileMaui\\TodoListHybrid\\TodoListHybrid\\TodoListHybrid.Shared\\Models\\TodoItem.cs",
+              "RelativeToolTip": "TodoListHybrid\\TodoListHybrid.Shared\\Models\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T14:48:15.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoListHybrid.Shared.csproj",
+              "DocumentMoniker": "D:\\materi kuliah\\MobileMaui\\TodoListHybrid\\TodoListHybrid\\TodoListHybrid.Shared\\TodoListHybrid.Shared.csproj",
+              "RelativeDocumentMoniker": "TodoListHybrid\\TodoListHybrid.Shared\\TodoListHybrid.Shared.csproj",
+              "ToolTip": "D:\\materi kuliah\\MobileMaui\\TodoListHybrid\\TodoListHybrid\\TodoListHybrid.Shared\\TodoListHybrid.Shared.csproj",
+              "RelativeToolTip": "TodoListHybrid\\TodoListHybrid.Shared\\TodoListHybrid.Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-22T14:47:39.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\materi kuliah\\MobileMaui\\TodoListHybrid\\TodoListHybrid\\TodoListHybrid.Shared\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "TodoListHybrid\\TodoListHybrid.Shared\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\materi kuliah\\MobileMaui\\TodoListHybrid\\TodoListHybrid\\TodoListHybrid.Shared\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "TodoListHybrid\\TodoListHybrid.Shared\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwCAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T14:47:04.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\materi kuliah\\MobileMaui\\TodoListHybrid\\TodoListHybrid\\TodoListHybrid.Shared\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "TodoListHybrid\\TodoListHybrid.Shared\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\materi kuliah\\MobileMaui\\TodoListHybrid\\TodoListHybrid\\TodoListHybrid.Shared\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "TodoListHybrid\\TodoListHybrid.Shared\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T14:46:58.919Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

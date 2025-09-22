@@ -1,0 +1,2 @@
+D:\materi kuliah\MobileMaui\TodoListHybrid\TodoListHybrid\TodoListHybrid.Shared\obj\Debug\net9.0\staticwebassets.build.json
+D:\materi kuliah\MobileMaui\TodoListHybrid\TodoListHybrid\TodoListHybrid.Shared\obj\Debug\net9.0\staticwebassets.build.json

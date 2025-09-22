@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\materi kuliah\\MobileMaui\\TodoListHybrid\\TodoListHybrid\\TodoListHybrid.Shared\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\TodoListHybrid.Shared.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TodoListHybrid.Shared.w6dfw1erft.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\materi kuliah\\MobileMaui\\TodoListHybrid\\TodoListHybrid\\TodoListHybrid.Shared\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\materi kuliah\\MobileMaui\\TodoListHybrid\\TodoListHybrid\\TodoListHybrid.Shared\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\materi kuliah\\MobileMaui\\TodoListHybrid\\TodoListHybrid\\TodoListHybrid.Shared\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\materi kuliah\\MobileMaui\\TodoListHybrid\\TodoListHybrid\\TodoListHybrid.Shared\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.TodoListHybrid.Shared.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.TodoListHybrid.Shared.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.TodoListHybrid.Shared.props",
+      "PackagePath": "build\\TodoListHybrid.Shared.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.TodoListHybrid.Shared.props",
+      "PackagePath": "buildMultiTargeting\\TodoListHybrid.Shared.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.TodoListHybrid.Shared.props",
+      "PackagePath": "buildTransitive\\TodoListHybrid.Shared.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
